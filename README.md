@@ -1,6 +1,6 @@
 # Hehuabot
 
-A bot project for automated Wikipedia maintenance tasks.
+A bot project for automated Postal Wiki maintenance tasks.
 
 ## Features
 
